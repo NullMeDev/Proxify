@@ -4,15 +4,15 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
 hysteria2://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:49930/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&obfs=none&insecure=1#041-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://72aaf68b-fca5-48fa-9ba3-b0a6fb9990d2@45.196.219.119:43629?sni=acckhk.fe-9.top&obfs=none&insecure=1#237-%F0%9F%87%B2%F0%9F%87%BA%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk&obfs=none&insecure=1#231-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://545804bf-5b2c-40e5-aab7-e7135e1e42db@dcisg.xhl666.top:10123?insecure=1&sni=dcisg.xhl666.top#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.3MB%2Fs
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk5.dexlos.com:9610?sni=hk5.dexlos.com&obfs=none&insecure=1#118-%F0%9F%87%AD%F0%9F%87%B0%20HK%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@6369805c-t53wg0-t7mt0p-1sllg.hk1.hyhuawei.com:443?sni=6369805c-t53wg0-t7mt0p-1sllg.hk1.hyhuawei.com&obfs=none&insecure=1#015-%F0%9F%87%AD%F0%9F%87%B0%20HK%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://ea800f9e-ca6c-11ef-8e74-f23c913c8d2b@6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443?sni=6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com&obfs=none&insecure=1#045-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
-hysteria2://ca9c0c54-1513-11f0-8a7b-f23c913c8d2b@2a25ca75-t6ngg0-tdahby-1tnab.us.hyhuawei.com:443?sni=2a25ca75-t6ngg0-tdahby-1tnab.us.hyhuawei.com&obfs=none&insecure=1#125-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://Telegram--%3E@Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&obfs=Telegram--%25253E%252540Ln2Ray&insecure=1#030-%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@us1.shiyuandian.shop:2056?sni=us1.shiyuandian.shop&obfs=salamander&obfs-password=fM%2524HJCAkxg%25238&insecure=1#034-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com:443?obfs=none&insecure=1#074-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk&obfs=none&insecure=1#060-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:59220:443?sni=Ab.ac&obfs=FnFgQIckcMRtKq7i&insecure=1#099-%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
+hysteria2://e1c7fbbc-96b6-11ef-8563-f23c913c8d2b@5f159779-t55r40-te0v28-1mh67.us.hyhuawei.com:443?sni=5f159779-t55r40-te0v28-1mh67.us.hyhuawei.com&obfs=none&insecure=1#245-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
+hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com:443?sni=74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com&obfs=none&insecure=1#235-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk5.dexlos.com:9053?sni=hk5.dexlos.com&obfs=none&insecure=1#156-%F0%9F%87%AD%F0%9F%87%B0%20HK%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://c357a728-1211-11f0-9a65-f23c9164ca5d@e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com:443?sni=e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com&obfs=none&insecure=1#100-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://545804bf-5b2c-40e5-aab7-e7135e1e42db@dcisg.xhl666.top:10123?insecure=1&sni=dcisg.xhl666.top#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C2.3MB%2Fs
